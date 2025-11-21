@@ -3,9 +3,9 @@ This repository is part of my thesis work, analyzing ENG data recorded from thre
 This repository provides an example workflow for training and evaluating convolutional neural networks (CNNs) on EEG data. **Note:** Original data cannot be shared, so all data used here are randomly generated with the same shape as the real dataset. To properly evaluate all boxplots, the `main` script must be run at least three times, changing the animal each time.
 
 ---
-# Technical Documentation for GitHub Repository
+# Technical Documentation
 
-This repository provides an example workflow for training and evaluating convolutional neural networks (CNNs) on ENG-like data. **Original data cannot be shared**, so all inputs are randomly generated with the same structure as the real dataset. To obtain the complete boxplot comparison, the `main` workflow must be run at least three times, changing the animal each time.
+This repository provides an example workflow for training and evaluating convolutional neural networks (CNNs) on ENG-like data. **Original data I used cannot be shared**, so all inputs are randomly generated with the same structure as the real dataset. To obtain the complete boxplot comparison, the `main` workflow must be run three times, changing the animal each time, and window size of the signals: 50, 100, 200, 500 ms.
 
 ---
 
